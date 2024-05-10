@@ -2,8 +2,9 @@
   "name": "solution",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use `readline-sync` to write a program that asks the user a series of questions and prints in output a message with the information collected.",
   "main": "task-1.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dci-fbw-wd-24-d01-b/pb-program-readline-sync-webdevbfb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dci-fbw-wd-24-d01-b/pb-program-readline-sync-webdevbfb/issues"
+  },
+  "homepage": "https://github.com/dci-fbw-wd-24-d01-b/pb-program-readline-sync-webdevbfb#readme"
 }
